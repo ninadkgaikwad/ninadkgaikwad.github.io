@@ -145,8 +145,8 @@ author:
 # Site Footer
 footer:
   - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ninad.gaikwad@wsu.edu"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:ninad.gaikwad@wsu.edu"
   - label: "Website"
     icon: "fas fa-fw fa-link"
     url: "https://ninadkgaikwad.github.io"
