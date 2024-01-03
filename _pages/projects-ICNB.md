@@ -1,4 +1,3 @@
-
 ---
 permalink: /projects-ICNB/
 title: "Intelligent Control of Networked Buildings"
