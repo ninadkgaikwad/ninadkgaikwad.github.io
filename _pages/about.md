@@ -14,7 +14,7 @@ I am Ninad Kiran Gaikwad an ***"Energy Systems Control engineer"*** with a backg
 - **Machine Learning:** Application of traditional, Deep-Learning, and Reinforcement-Learning algorithms for solving problems in Power Systems 
 - **Computation:** Application Development for Real-Time Solutions
 
-## Other Interests
+### Other Interests
 
 - Playing Guitar and listening to rock
 - Playing Table-Tennis
