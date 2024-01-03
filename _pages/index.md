@@ -13,7 +13,7 @@ excerpt: >
   
 feature_row:
 
-  - image_path: /assets/images/NKG_Professional_Pic.jpg
+  - image_path: /assets/images/nkg-home-page-about.jpg
     alt: "About"
     title: "About Me"
     excerpt: "An engineer with a bend for research in Smart Grids, combining Power Systems, Control Systems, and Machine Learning to create an autonomous energy grid."
