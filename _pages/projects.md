@@ -37,4 +37,6 @@ feature_row:
     btn_label: "Learn more"
 ---
 
+The following is not an exhaustive list of projects.
+
 {% include feature_row %}
