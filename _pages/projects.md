@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"    
   
-  - image_path: /assets/images/nkg-projects-page-HEMS.png
+  - image_path: /assets/images/nkg-projects-page-HEMS.PNG
     alt: "Energy Resiliency"
     title: "Home Energy Resiliency"
     excerpt: "Where during grid outage scenario smart houses with PV, Battery storage, EVs and smart loads will be capable of managing their energy based on optimal control and reinforcement learning. MPC and RL-based central controllers for a single house have been developed. Currently work on centralized and distributed architectures based on MPC and RL for energy resiliency of community of houses is being pursued."
