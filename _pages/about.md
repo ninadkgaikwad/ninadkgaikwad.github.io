@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 excerpt: "I am Ninad Kiran Gaikwad an Energy Systems Control engineer..."
 ---
 ### Bio:
