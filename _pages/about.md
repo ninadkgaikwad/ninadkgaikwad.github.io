@@ -9,10 +9,10 @@ I am Ninad Kiran Gaikwad an ***"Energy Systems Control engineer"*** with a backg
 
 ### Research Interests:
 
-- Smart Grids: Integration of distributed energy resources to the power grid, modeling & control of Power Systems and their components, and renewable energy forecasting
-- Machine Learning: Application of traditional, Deep-Learning, and Reinforcement-Learning algorithms for solving problems in Power Systems 
-- Control Systems: Applications of Optimization, Estimation Theory, and Linear & Nonlinear Controls in Power Systems
-- Computation: Application Development for Real-Time Solutions
+- **Smart Grids:** Integration of distributed energy resources to the power grid, modeling & control of Power Systems and their components, and renewable energy forecasting
+- **Control Systems:** Applications of Optimization, Estimation Theory, and Linear & Nonlinear Controls in Power Systems
+- **Machine Learning:** Application of traditional, Deep-Learning, and Reinforcement-Learning algorithms for solving problems in Power Systems 
+- **Computation:** Application Development for Real-Time Solutions
 
 ## Other Interests
 
