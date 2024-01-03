@@ -16,7 +16,7 @@ I am Ninad Kiran Gaikwad an ***"Energy Systems Control engineer"*** with a backg
 
 ### Other Interests
 
-- Playing Guitar and listening to rock
+- Playing Guitar and listening to music
 - Playing Table-Tennis
 - Cooking
 
