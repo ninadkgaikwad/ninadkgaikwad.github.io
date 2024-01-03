@@ -3,14 +3,14 @@ permalink: /publications/
 title: "Publications"
 excerpt: "List of my publications..."
 ---
-### Journal Papers:
+## Journal Papers:
 
 **Increasing Energy Resiliency to Hurricanes with Battery and Rooftop Solar Through Intelligent Control** <br>
 *Authors: Ninad Gaikwad, Naren Raman Srivaths, Prabir Barooah* <br>
 Journal: Feb 2021, arXiv preprint arXiv:2102.04406 <br>
 [Paper Link](https://arxiv.org/abs/2102.04406){: .btn .btn--primary .btn--small}
 
-### Conference Papers:
+## Conference Papers:
 
 **Reinforcement Learning-Based Home Energy Management System for Resiliency** <br>
 *Authors: Naren Raman Srivaths, Ninad Gaikwad, Prabir Barooah, Sean Meyn* <br>
@@ -32,7 +32,7 @@ Conference: Mar 2017, Oral Presentation at INDIACom-2017, IEEE Conference, Delhi
 Conference: Oct 2016, Oral Presentation at PVSEC-26, Singapore <br>
 [Paper Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vs7Oqv8AAAAJ&citation_for_view=vs7Oqv8AAAAJ:2osOgNQ5qMEC){: .btn .btn--primary .btn--small}
 
-### Conference Posters:
+## Conference Posters:
 
 **Development of Solar & Wind Energy Forecasting Application** <br>
 *Authors: Ninad Gaikwad, Sagarkumar Agravat* <br>
