@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/nkg-home-page-main.png
   actions:
-    - label: "<i class='fas fa-bolt'></i> SCALE Lab"
+    - label: "SCALE Lab"
       url: "https://anamika-dubey.github.io"
 excerpt: >
   PhD student at Washington State University working on intelligent control of networked buildings.<br />
