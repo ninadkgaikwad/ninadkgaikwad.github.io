@@ -1,14 +1,6 @@
 ---
 permalink: /projects/
 hidden: false
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/nkg-home-page-main.png
-  actions:
-    - label: "SCALE Lab"
-      url: "https://anamika-dubey.github.io"
-excerpt: >
-  PhD student at Washington State University working on intelligent control of networked buildings.<br />
   
 feature_row:
 
