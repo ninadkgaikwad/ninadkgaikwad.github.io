@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink: /projects/
 hidden: false
 header:
