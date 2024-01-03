@@ -8,5 +8,7 @@ main:
     url: /publications/
   - title: "Resume-CV"
     url: https://ninadkgaikwad.github.io/ninadkgaikwad_online-cv.github.io/
+  - title: "Blog"
+    url: /blog/
   # - title: "Sitemap"
   #   url: /sitemap/
