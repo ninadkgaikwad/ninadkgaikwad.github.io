@@ -4,7 +4,7 @@ permalink: /projects-ICNB/
 title: "Intelligent Control of Networked Buildings"
 excerpt: "The project involves developing and comparing computationally inexpensive black/grey-box developing models (neural network architectures and Bayesian estimation methods) for residential/commercial buildings where data comes from EnergyPlus and other open-source building data repositories like PecanStreet..."
 ---
-![Intelligent Control of Networked Buildings Schematic](Dragster.jpg)
+![Intelligent Control of Networked Buildings Schematic](/assets/images/nkg-projects-page-ICNB.png)
 
 ### Description:
 
