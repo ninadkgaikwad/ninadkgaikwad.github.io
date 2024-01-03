@@ -10,7 +10,6 @@ header:
       url: "https://anamika-dubey.github.io"
 excerpt: >
   PhD student at Washington State University working on intelligent control of networked buildings.<br />
-  <small><a href="https://anamika-dubey.github.io">SCALE Lab, WSU, Pullman</a></small>
   
 feature_row:
 
@@ -37,14 +36,6 @@ feature_row:
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-
-  - image_path: /assets/images/nkg-home-page-blog.jpg
-    alt: "Blog"
-    title: "Blog Posts"
-    excerpt: "A list of my blogs."
-    url: "/blog/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more" 
 ---
 
 {% include feature_row %}
