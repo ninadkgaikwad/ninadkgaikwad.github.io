@@ -5,6 +5,10 @@ excerpt: "List of my publications..."
 ---
 ### Journal Papers:
 
+**Paper Title** </br>
+*Authors: N.Gaikwad*
+[Paper Link](https://github.com/ninadkgaikwad/SWEEFA_Development){: .btn .btn--primary .btn--small}
+
 
 ### Conference Papers:
 
