@@ -1,7 +1,7 @@
 ---
 permalink: /projects-HEMS/
 title: "Home Energy Resiliency"
-excerpt: "Where during grid outage scenario smart houses with PV, Battery storage, EVs and smart loads will be capable of managing their energy based on optimal control and reinforcement learning.."
+excerpt: "Where during grid outage scenario smart houses with PV, Battery storage, EVs and smart loads will be capable of managing their energy based on optimal control and reinforcement learning..."
 ---
 ![Intelligent Control of Networked Buildings Schematic](/assets/images/nkg-projects-page-HEMS.PNG)
 
