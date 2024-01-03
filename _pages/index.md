@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/nkg-home-page-main.jpg
+  overlay_image: /assets/images/nkg-home-page-main.png
   actions:
     - label: "<i class='fas fa-bolt'></i> SCALE Lab"
       url: "https://anamika-dubey.github.io"
