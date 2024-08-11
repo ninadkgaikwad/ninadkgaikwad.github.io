@@ -11,7 +11,8 @@ tags:
 
 ### **Title:** On the Streamlining of Graduate Education for Multi-Disciplinary Research: A New Approach to Complement Classical Courses 
 
-**Disclaimer: ** This piece is a collaboration between my own ideas and insights, along with assistance from ChatGPT to help structure and write the content. The ideas presented here are my own, while ChatGPT provided support in organizing and articulating these concepts into a cohesive narrative. 
+
+**Disclaimer:** This piece is a collaboration between my own ideas and insights, along with assistance from ChatGPT to help structure and write the content. The ideas presented here are my own, while ChatGPT provided support in organizing and articulating these concepts into a cohesive narrative. 
  
 ### **Introduction:** 
 
