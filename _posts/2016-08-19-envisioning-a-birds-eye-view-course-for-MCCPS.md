@@ -1,12 +1,11 @@
 ---
 title: "Envisioning a Birds-Eye View Course for Modern Control of Cyber-Physical Systems"
 categories:
-  - Energy Forecasting
+  - Graduate Education
 tags:
-  - MATLAB
-  - solar
-  - wind
-  - ANN
-  - ARIMA
-  - NWP
+  - Graduate Education
+  - Multi-Disciplinary Reserarch
+  - Bird's Eye View Courses
+  - Control
+  - Cyber-Physical Systems
 ---
