@@ -111,12 +111,12 @@ The first semester, titled Language for Controls, would introduce students to th
 
 The second semester, titled Essay on Controls, would build upon the concepts introduced in the first semester and dive deeper into advanced control strategies and modern techniques. The modules included in this semester are:
 
-- **Linear Controls:** Exploration of classical control methods, including PID control, state-space control, and frequency domain analysis.
-- **Estimation (Part 2):** Advanced estimation techniques, including Kalman filters, particle filters, and their applications in dynamic systems.
-- **Nonlinear Controls:** Introduction to nonlinear control systems, phase portraits, Lyapunov stability, and feedback linearization.
-- **Optimal Control:** In-depth study of optimal control strategies, focusing on Model Predictive Control (MPC) and dynamic programming.
-- **Reinforcement Learning:** Exploration of reinforcement learning methods, including Q-learning and policy gradients, with applications in control systems.
-- **Scientific Machine Learning (SciML):** Integration of machine learning with scientific computing, focusing on physics-informed neural networks and their role in CPS.
+- **Linear Controls:** Exploration of classical control methods, frequency domain control, PID control, state-space control, full-state feedback.
+- **Estimation (Part 2):** Advanced estimation techniques, including Kalman filters, particle filters.
+- **Nonlinear Controls:** Introduction to nonlinear control systems, Lyapunov stability concepts, and feedback linearization.
+- **Optimal Control:** Introduction to optimal control problem setup, Hamilton-Jacobi-Bellman equations, Direct and Indirect methods, Model Predictive Control (MPC).
+- **Reinforcement Learning:** Introduction to reinforcement learning methods for model-based and model-free setting, including Q-learning and policy gradients.
+- **Scientific Machine Learning (SciML):** Integration of machine learning with scientific computing, focusing on physics-informed neural networks architectures.
 
 #### Pedagogical Approach
 The birds-eye view course would adopt a collaborative, student-led pedagogical approach that leverages the diverse expertise and interests of students across the university:
