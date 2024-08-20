@@ -9,6 +9,9 @@ tags:
   - Control
   - Cyber-Physical Systems
 ---
+
+**Disclaimer:** This piece is a collaboration between my own ideas and insights, along with assistance from ChatGPT to help structure and write the content. The ideas presented here are my own, while ChatGPT provided support in organizing and articulating these concepts into a cohesive narrative. 
+
 ### Introduction
 
 In the rapidly evolving landscape of modern engineering and technology, Control of Cyber-Physical Systems (CPS) stands out as a pivotal field that bridges the gap between the physical systems and their digital representations for an ever intelligent dominoin over the physical systems leading to more efficient engineered systems. CPS involves the integration of computational algorithms based in a rich tradition of applied mathematics with physical processes, enabling the creation of digital twin systems that are more symbiotic, and intelligent as a whole lending to our mastery over our engineered environments. These systems are foundational to critical infrastructures such as power grids, autonomous vehicles, industrial automation, and smart cities. As such, the domain of CPS is inherently multi-disciplinary, drawing from system modeling and simulations, applied mathematics, control systems, machine learning, programming among others.
