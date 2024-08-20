@@ -31,13 +31,13 @@ To fully grasp and innovate within CPS, students must navigate several key disci
 
 - **System Modeling and Simulation:** This discipline forms the backbone of CPS, allowing engineers to create accurate digital representations (digital twins) of physical systems. These models are crucial for predicting system behavior, testing control strategies, and optimizing performance.
 
-- **Applied Mathematics:** A solid foundation in applied mathematics is essential for developing the algorithms that drive CPS. This includes differential equations, linear algebra, optimization, and stochastic processes, all of which play a critical role in system analysis and control.
+- **Applied Mathematics:** A solid foundation in applied mathematics is essential for developing the algorithms that drive CPS. This includes differential equations, linear algebra, probability, optimization, and estimation, all of which play a critical role in system analysis and control.
 
-- **Control Systems:** Control theory is central to CPS, providing the methodologies for designing systems that can autonomously regulate their behavior in response to changing conditions. This includes both classical control methods and more advanced techniques such as model predictive control and adaptive control.
+- **Control Systems:** Control theory is central to CPS, offering methodologies for designing systems that autonomously regulate their behavior in response to changing conditions. This encompasses classical control methods in both frequency and time domains, nonlinear control for more realistic settings, optimal control approaches like Model Predictive Control (MPC), and advanced data-driven techniques such as Reinforcement Learning (RL) and Scientific Machine Learning (SciML).
 
 - **Machine Learning:** With the increasing complexity of CPS, machine learning techniques are becoming indispensable for tasks such as system identification, anomaly detection, and predictive maintenance. Integrating machine learning with control systems is a growing area of research that holds great promise for enhancing system intelligence and autonomy.
 
-- **Programming:** Understanding the hardware and software that facilitate the interaction between digital controllers and physical processes is critical. This includes knowledge of microcontrollers, real-time operating systems, and the interfacing of sensors and actuators.
+- **Programming:** Understanding the how algorithms can be implemented efficiently and with which language using which package and on what hardware is an essential skill that has to be developed for successful prototyping and future seamless deployment in the field.
 
 #### The Complexity of CPS
 The multi-disciplinary nature of CPS adds layers of complexity to the field. Researchers must not only be proficient in each of these disciplines but also understand how to integrate them effectively to develop cohesive and efficient systems. For example, designing an autonomous vehicle involves more than just applying control theory; it requires a deep understanding of how to model the vehicle's dynamics, implement machine learning algorithms for perception and decision-making, and ensure that the embedded systems can handle real-time processing demands.
