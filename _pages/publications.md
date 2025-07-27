@@ -12,10 +12,30 @@ Journal: Feb 2021, arXiv preprint arXiv:2102.04406 <br>
 
 ## Conference Papers:
 
+**Smart Residential Community Simulator for Developing and Benchmarking Energy Management Systems** <br>
+*Authors: Ninad Gaikwad, Anamika Dubey* <br>
+Conference: Nov 2024, Sept 2025, Oral Presentation at IEEE SmartGridComm 2025, Toronto, ON, Canada" <br>
+[Paper Link](){: .btn .btn--primary .btn--small}
+
+**Comparing Building Thermal Dynamics Models and Estimation Methods for Grid-Edge Applications** <br>
+*Authors: Ninad Gaikwad, Kunal Shankar, Anamika Dubey, Alan Love, Olvar Bergland* <br>
+Conference: July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA" <br>
+[Paper Link](){: .btn .btn--primary .btn--small}
+
+**An Open-Source Simulation and Data Management Tool for EnergyPlus Building Models** <br>
+*Authors: Ninad Gaikwad, Kasey Dettlaff, Athul Jose P, Anamika Dubey* <br>
+Conference: July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA" <br>
+[Paper Link](){: .btn .btn--primary .btn--small}
+
+**Duck Curve Mitigation Through Optimal Orientation of Utility-Scale Solar Photovoltaics** <br>
+*Authors: Liadi Akande, Ninad Gaikwad, Shishir Lamichhane, Noel Schulz* <br>
+Conference: Oral Presentation at IEEE KPEC 2025, Manhattan, KS, USA" <br>
+[Paper Link](https://ieeexplore.ieee.org/document/11045039){: .btn .btn--primary .btn--small}
+
 **Model Predictive Control based Energy Management System for Home Energy Resiliency** <br>
 *Authors: Ninad Gaikwad, Shishir Lamichhane, Anamika Dubey* <br>
 Conference: Nov 2024, Oral Presentation at North American Power Symposium-2024, El Paso, USA" <br>
-[Paper Link](https://ieeexplore.ieee.org/document/9483162){: .btn .btn--primary .btn--small}
+[Paper Link](https://ieeexplore.ieee.org/document/10741744){: .btn .btn--primary .btn--small}
 
 **Reinforcement Learning-Based Home Energy Management System for Resiliency** <br>
 *Authors: Naren Raman Srivaths, Ninad Gaikwad, Prabir Barooah, Sean Meyn* <br>
