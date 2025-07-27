@@ -29,7 +29,7 @@ Conference: July 2025, Oral Presentation at IEEE PESGM 2025, Austin, TX, USA" <b
 
 **Duck Curve Mitigation Through Optimal Orientation of Utility-Scale Solar Photovoltaics** <br>
 *Authors: Liadi Akande, Ninad Gaikwad, Shishir Lamichhane, Noel Schulz* <br>
-Conference: Oral Presentation at IEEE KPEC 2025, Manhattan, KS, USA" <br>
+Conference: Apr 2025, Oral Presentation at IEEE KPEC 2025, Manhattan, KS, USA" <br>
 [Paper Link](https://ieeexplore.ieee.org/document/11045039){: .btn .btn--primary .btn--small}
 
 **Model Predictive Control based Energy Management System for Home Energy Resiliency** <br>
