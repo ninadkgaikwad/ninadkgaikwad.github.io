@@ -3,20 +3,27 @@ permalink: /about/
 title: "About me"
 excerpt: "I am Ninad Kiran Gaikwad an Energy Systems Control engineer..."
 ---
+
 ### Bio:
 
-I am Ninad Kiran Gaikwad an ***"Energy Systems Control engineer"*** with a background in Power Systems, Control Systems, and Computer Science. I have previously worked in various research, industry, and academic positions. I am currently working as a Research Assistant at the SCALE Lab under Dr. Dubey in the Electrical Engineering and Computer Science department at Washington State University. My current research focuses on intelligent control of networked buildings. My other research interests include employing Model Predictive Control (MPC) and Reinforcement Learning (RL) techniques for optimal control of energy systems. Moreover, I am actively seeking a position in the research/analysis/design of intelligent Power Systems. Looking forward to collaborating with you soon!!!
+I am Ninad Kiran Gaikwad, a **power and energy systems researcher and engineer** with a background in power systems, control, optimization, and computer science. My work focuses on developing intelligent, data-driven, and optimization-based methods for energy systems, with particular emphasis on intelligent buildings, grid-edge applications, and resilient energy management.
+
+I am currently a PhD candidate in Electrical Engineering and Computer Science at Washington State University, where my research focuses on modeling, estimation, simulation, and intelligent control of networked buildings. My broader research interests include building thermal modeling, scientific machine learning, model predictive control, reinforcement learning, distributed energy resources, building-grid co-simulation, power-system optimization, distribution-grid analytics, and energy resiliency.
+
+Across my academic and professional work, I have contributed to problems involving residential and commercial energy systems, optimal power flow, renewable-energy forecasting, building-energy modeling, state and parameter estimation, and data-driven grid analytics. I am interested in research collaborations and opportunities that advance intelligent, scalable, and resilient power and energy systems.
 
 ### Research Interests:
 
-- **Smart Grids:** Integration of distributed energy resources to the power grid, modeling & control of Power Systems and their components, and renewable energy forecasting
-- **Control Systems:** Applications of Optimization, Estimation Theory, and Linear & Nonlinear Controls in Power Systems
-- **Machine Learning:** Application of traditional, Deep-Learning, and Reinforcement-Learning algorithms for solving problems in Power Systems 
-- **Computation:** Application Development for Real-Time Solutions
+- **Power and Energy Systems:** Distribution systems, distributed energy resources, grid-edge applications, power-system modeling and control, optimal power flow, building-grid integration, and renewable-energy forecasting
+- **Optimization and Control:** Model predictive control, optimal control, distributed optimization, estimation theory, and linear and nonlinear control for energy-system applications
+- **Machine Learning and Scientific Machine Learning:** Data-driven modeling, deep learning, reinforcement learning, Bayesian estimation, and physics-informed/scientific machine-learning methods for power and building energy systems
+- **Intelligent Buildings:** Building thermal modeling and estimation, residential and commercial energy management, building-grid co-simulation, and networked-building control
+- **Scientific Computing and Research Software:** Development of scalable simulation, analytics, optimization, and control tools for energy-system research and real-world applications
 
-### Other Interests
+### Other Interests:
 
-- Playing Guitar and listening to music
-- Playing Table-Tennis
+- Playing guitar and listening to music
+- Playing table tennis
 - Cooking
 
+---
