@@ -9,6 +9,6 @@ excerpt: "Where during grid outage scenario smart houses with PV, Battery storag
 
 Where during grid outage scenario smart houses with PV, Battery storage, EVs and smart loads will be capable of managing their energy based on optimal control and reinforcement learning. MPC and RL-based central controllers for a single house have been developed. Currently work on centralized and distributed architectures based on MPC and RL for energy resiliency of community of houses is being pursued.
 
-[Github Link](https://github.com/ninadkgaikwad/EnergyResiliency_SmartCommunity_MPC_RL){: .btn .btn--success .btn--large}
+[Github Link]([https://github.com/ninadkgaikwad/EnergyResiliency_SmartCommunity_MPC_RL](https://github.com/ninadkgaikwad/SmartCommunitySim)){: .btn .btn--success .btn--large}
 
 
